@@ -1,0 +1,16 @@
+.access{
+    width: 100%;
+}
+
+button:focus {
+    outline: none;
+}
+
+.rows{
+    display: flex;
+    flex-direction: column;
+}
+
+.on-click{
+    cursor: pointer;
+}
